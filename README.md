@@ -29,7 +29,7 @@ $ sudo apt install git
 $ sudo apt install python3-pip
 
 # Download tool
-$ git clone https://github.com/JOKER-7X/HackerMode
+$ git clone https://github.com/JOKER-7X/Hacker_Mode
 
 # Install
 $ sudo python3 -B HackerMode/ install
@@ -41,7 +41,7 @@ $ pkg install python
 $ pkg install git
 
 # Download tool
-$ git clone https://github.com/JOKER-7X/HackerMode
+$ git clone https://github.com/JOKER-7X/Hacker_Mode
 
 # Install
 $ python3 -B HackerMode/ install
