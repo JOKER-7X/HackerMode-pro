@@ -32,7 +32,7 @@ $ sudo apt install python3-pip
 $ git clone https://github.com/JOKER-7X/Hacker_Mode
 
 # Install
-$ sudo python3 -B HackerMode/ install
+$ sudo python3 -B Hacker_Mode/ install
 ```
 - termux
 ```shell
@@ -44,7 +44,7 @@ $ pkg install git
 $ git clone https://github.com/JOKER-7X/Hacker_Mode
 
 # Install
-$ python3 -B HackerMode/ install
+$ python3 -B Hacker_Mode/ install
 ```
 <div id="docs"></div>
 
@@ -56,12 +56,12 @@ How to use HackerMode?
 # to run the tool
 $ HackerMode
 
-# to check HackerMode package
-$ HackerMode check
+# to check Hacker_Mode package
+$ Hacker_Mode check
 
 # to update HackerMode and packages
-$ HackerMode update
-$ HackerMode upgread
+$ Hacker_Mode update
+$ Hacker_Mode upgread
 ```
 
 ## JOKER7x Team
