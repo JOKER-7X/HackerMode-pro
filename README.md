@@ -2,7 +2,7 @@
 
 ___
 
-# HackerMode
+# HackerMode pro
 - [Support](#support)
 - [Install](#install)
 - [Docs](#docs)
